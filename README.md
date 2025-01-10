@@ -1,0 +1,1 @@
+Piccolo progetto in java, un applicativo gestionale per una società di autonoleggio che, mediante oggetto scanner, permette all'utilizzatore di collezionare veicoli,clienti e noleggi, nonchè di consultare i relativi elenchi.
